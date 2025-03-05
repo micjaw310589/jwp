@@ -1,0 +1,30 @@
+﻿<Window x:Class="zad1_jwp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zad1_jwp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="0,0,400,0" VerticalAlignment="Center">
+            <TextBlock TextWrapping="Wrap" Margin="20,0,0,0"><Run Language="pl-pl" Text="a:"/></TextBlock>
+            <TextBox x:Name="fieldA" TextWrapping="Wrap" Width="120" Text="0" HorizontalAlignment="Left" Margin="50,0,0,0"/>
+            <TextBlock TextWrapping="Wrap" Margin="20,0,0,0"><Run Language="pl-pl" Text="b:"/></TextBlock>
+            <TextBox x:Name="fieldB" TextWrapping="Wrap" Text="0" Width="120" HorizontalAlignment="Left" Margin="50,0,0,0"/>
+            <TextBlock TextWrapping="Wrap" Margin="20,0,0,0"><Run Language="pl-pl" Text="c:"/></TextBlock>
+            <TextBox x:Name="fieldC" TextWrapping="Wrap" Text="0" Width="120" Margin="50,0,0,0" HorizontalAlignment="Left"/>
+        </StackPanel>
+        <StackPanel Margin="400,0,0,0" VerticalAlignment="Center">
+            <GroupBox x:Name="groupX1" Height="50" Header="x_1">
+                <TextBox x:Name="fieldX1" TextWrapping="Wrap" Width="120" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            </GroupBox>
+            <GroupBox x:Name="groupX2" Height="50" Header="x_2">
+                <TextBox x:Name="fieldX2" TextWrapping="Wrap" Width="120" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            </GroupBox>
+            <TextBlock x:Name="info" TextWrapping="Wrap" Text="TextBlock" Visibility="Hidden"/>
+            <Button Content="Oblicz" Click="Button_Click" Margin="20,10,20,0"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
