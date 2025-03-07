@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Repos\\jwp\\C#\\zad1-2-jwp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D81BBF56-02CB-4415-BB20-E7737D917F11}|zad1-2-jwp\\zad1-2-jwp.csproj|c:\\repos\\jwp\\c#\\zad1-2-jwp\\zad1-2-jwp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D81BBF56-02CB-4415-BB20-E7737D917F11}|zad1-2-jwp\\zad1-2-jwp.csproj|solutionrelative:zad1-2-jwp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D81BBF56-02CB-4415-BB20-E7737D917F11}|zad1-2-jwp\\zad1-2-jwp.csproj|c:\\repos\\jwp\\c#\\zad1-2-jwp\\zad1-2-jwp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BBF56-02CB-4415-BB20-E7737D917F11}|zad1-2-jwp\\zad1-2-jwp.csproj|solutionrelative:zad1-2-jwp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81BBF56-02CB-4415-BB20-E7737D917F11}|zad1-2-jwp\\zad1-2-jwp.csproj|c:\\repos\\jwp\\c#\\zad1-2-jwp\\zad1-2-jwp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D81BBF56-02CB-4415-BB20-E7737D917F11}|zad1-2-jwp\\zad1-2-jwp.csproj|solutionrelative:zad1-2-jwp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Repos\\jwp\\C#\\zad1-2-jwp\\zad1-2-jwp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "zad1-2-jwp\\MainWindow.xaml",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Repos\\jwp\\C#\\zad1-2-jwp\\zad1-2-jwp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "zad1-2-jwp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Repos\\jwp\\C#\\zad1-2-jwp\\zad1-2-jwp\\MainWindow.xaml.cs",
               "RelativeToolTip": "zad1-2-jwp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T20:36:33.873Z",
               "EditorCaption": ""
