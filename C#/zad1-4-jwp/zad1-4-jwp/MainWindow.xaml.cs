@@ -16,6 +16,15 @@ namespace zad1_4_jwp
     /// </summary>
     public partial class MainWindow : Window
     {
+        enum comboEnum
+        {
+            Java,
+            Rust,
+            Fsh,
+            Qbic,
+            Brainfuck
+        }
+
         public MainWindow()
         {
             InitializeComponent();
@@ -29,7 +38,7 @@ namespace zad1_4_jwp
             if (ckbox3.IsChecked == true) points++;
             if (ckbox4.IsChecked == true) points++;
 
-            if (combo.SelectedIndex == 3)
+            if (combo.SelectedIndex == (int)comboEnum.Qbic)
                 points++;
 
             if (listBox.SelectedIndex == 3)
