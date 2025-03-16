@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\zad1-3-jwp.csproj": {}
+    "C:\\Repos\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\zad1-3-jwp.csproj": {}
   },
   "projects": {
-    "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\zad1-3-jwp.csproj": {
+    "C:\\Repos\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\zad1-3-jwp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\zad1-3-jwp.csproj",
+        "projectUniqueName": "C:\\Repos\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\zad1-3-jwp.csproj",
         "projectName": "zad1-3-jwp",
-        "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\zad1-3-jwp.csproj",
+        "projectPath": "C:\\Repos\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\zad1-3-jwp.csproj",
         "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-        "outputPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\obj\\",
+        "outputPath": "C:\\Repos\\jwp\\C#\\zad1-3-jwp\\zad1-3-jwp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -67,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

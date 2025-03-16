@@ -5,14 +5,35 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:zad2"
         mc:Ignorable="d"
-        Title="Gwiazda-fraktal" Height="450" Width="800">
+        Title="zad2" Height="450" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
         </Grid.ColumnDefinitions>
-        
-        <Button x:Name="btnRysuj" Content="Rysuj" Grid.Column="0" Click="btnRysuj_Click" Width="60" Height="20"/>
+
         <Canvas x:Name="cv" Grid.Column="1"/>
+        <StackPanel Grid.Column="0">
+            <TextBlock TextWrapping="Wrap" FontWeight="Bold"><Run Language="en-gb" Text="Gwiazda:"/></TextBlock>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Długość ramienia" VerticalAlignment="Top"/>
+            <TextBox x:Name="txtR" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBlock TextWrapping="Wrap" Text="Min długość"/>
+            <TextBox x:Name="txtMin" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBlock TextWrapping="Wrap" Text="X środka"/>
+            <TextBox x:Name="txtX" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBlock TextWrapping="Wrap" Text="Y środka"/>
+            <TextBox x:Name="txtY" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="btnRysuj" Content="Rysuj" Grid.Column="0" Click="btnRysuj_Click"/>
+            <TextBlock TextWrapping="Wrap" FontWeight="Bold"><Run Text="Zamiana liczb"/><Run Language="en-gb" Text=":"/></TextBlock>
+            <TextBlock TextWrapping="Wrap" Text="A"/>
+            <TextBox x:Name="txtA" TextWrapping="Wrap" Width="120"/>
+            <TextBlock TextWrapping="Wrap" Text="B"/>
+            <TextBox x:Name="txtB" TextWrapping="Wrap" Width="120"/>
+            <Button x:Name="btnTest2" Content="Test2" Click="btnTest2_Click"/>
+            <TextBlock TextWrapping="Wrap" FontWeight="Bold" Text="Tablica 2D"/>
+            <Button x:Name="btnWyswietl2DArr" Content="Wyświetl (2D Arr)" Click="btnWyswietl2DArr_Click"/>
+            <Button x:Name="btnWyswietlJaggedArr" Content="Wyświetl (Jagged Arr)" Click="btnWyswietlJagged_Click"/>
+            <ListBox x:Name="listTab" Height="100" d:ItemsSource="{d:SampleData ItemCount=5}" HorizontalContentAlignment="Right"/>
+        </StackPanel>
     </Grid>
 </Window>

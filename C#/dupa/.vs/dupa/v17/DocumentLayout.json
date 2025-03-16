@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\jwp\\C#\\dupa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31BFF0-7796-479C-BC3A-A8D80B0205F7}|dupa\\dupa.csproj|c:\\repos\\jwp\\c#\\dupa\\dupa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A31BFF0-7796-479C-BC3A-A8D80B0205F7}|dupa\\dupa.csproj|solutionrelative:dupa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31BFF0-7796-479C-BC3A-A8D80B0205F7}|dupa\\dupa.csproj|c:\\repos\\jwp\\c#\\dupa\\dupa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A31BFF0-7796-479C-BC3A-A8D80B0205F7}|dupa\\dupa.csproj|solutionrelative:dupa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\dupa\\dupa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "dupa\\MainWindow.xaml",
+              "ToolTip": "C:\\Repos\\jwp\\C#\\dupa\\dupa\\MainWindow.xaml",
+              "RelativeToolTip": "dupa\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T14:09:14.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\dupa\\dupa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "dupa\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Repos\\jwp\\C#\\dupa\\dupa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "dupa\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:09:14.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
