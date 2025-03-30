@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\jwp\\C#\\zad3-lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA66F31-3B83-4C0A-BF5C-99E7D7E0A436}|zad3-lab\\zad3-lab.csproj|c:\\repos\\jwp\\c#\\zad3-lab\\zad3-lab\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA66F31-3B83-4C0A-BF5C-99E7D7E0A436}|zad3-lab\\zad3-lab.csproj|solutionrelative:zad3-lab\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3FAA-7458-41D5-9F6C-F07F8ACBAC57}|Motoryzacja\\Motoryzacja.csproj|c:\\repos\\jwp\\c#\\zad3-lab\\motoryzacja\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3FAA-7458-41D5-9F6C-F07F8ACBAC57}|Motoryzacja\\Motoryzacja.csproj|solutionrelative:motoryzacja\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA66F31-3B83-4C0A-BF5C-99E7D7E0A436}|zad3-lab\\zad3-lab.csproj|c:\\repos\\jwp\\c#\\zad3-lab\\zad3-lab\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5BA66F31-3B83-4C0A-BF5C-99E7D7E0A436}|zad3-lab\\zad3-lab.csproj|solutionrelative:zad3-lab\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pojazd.cs",
+              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\zad3-lab\\Motoryzacja\\Pojazd.cs",
+              "RelativeDocumentMoniker": "Motoryzacja\\Pojazd.cs",
+              "ToolTip": "C:\\Repos\\jwp\\C#\\zad3-lab\\Motoryzacja\\Pojazd.cs",
+              "RelativeToolTip": "Motoryzacja\\Pojazd.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:36:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "zad3-lab\\MainWindow.xaml",
+              "ToolTip": "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\MainWindow.xaml",
+              "RelativeToolTip": "zad3-lab\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-30T11:26:35.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "zad3-lab\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\MainWindow.xaml.cs",
+              "RelativeToolTip": "zad3-lab\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:26:33.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

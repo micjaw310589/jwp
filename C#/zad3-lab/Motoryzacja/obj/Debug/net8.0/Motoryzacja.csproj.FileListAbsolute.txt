@@ -1,0 +1,12 @@
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\bin\Debug\net8.0\Motoryzacja.deps.json
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\bin\Debug\net8.0\Motoryzacja.dll
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\bin\Debug\net8.0\Motoryzacja.pdb
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\Motoryzacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\Motoryzacja.AssemblyInfoInputs.cache
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\Motoryzacja.AssemblyInfo.cs
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\Motoryzacja.csproj.CoreCompileInputs.cache
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\Motoryzacja.sourcelink.json
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\Motoryzacja.dll
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\refint\Motoryzacja.dll
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\Motoryzacja.pdb
+C:\Repos\jwp\C#\zad3-lab\Motoryzacja\obj\Debug\net8.0\ref\Motoryzacja.dll
