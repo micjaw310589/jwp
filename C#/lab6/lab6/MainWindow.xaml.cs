@@ -1,5 +1,6 @@
 ﻿using lab6_classes;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -104,19 +105,18 @@ namespace lab6
 
         private void btnLinq4_Click(object sender, RoutedEventArgs e)
         {
-            //var query = magazyn.GroupBy(b => b.Stan);
+            // nazwy kategorii oraz ilości i średnie ceny towarów w tych kategoriach
 
-            //listTowar.Items.Clear();
-            
-            //foreach (var group in query)
-            //{
-            //    foreach (var item in group)
-            //    {
-            //        ListBoxItem lb_item = new ListBoxItem();
-            //        lb_item.Content = $"{item.Stan}";
-            //        listTowar.Items.Add(lb_item);
-            //    }
-            //}
+            var query = magazyn.GroupBy(n => n.Stan).Select(g =>
+            {
+                var kat = g.Key;
+                int ilosc = g.Count();
+                decimal srednia = g.Average(b => b.Cena);
+
+                return (kat, ilosc, srednia);
+            });
+
+            wypiszNaLiscie(ref listTowar, query);
         }
 
         private void btnLinq5_Click(object sender, RoutedEventArgs e)

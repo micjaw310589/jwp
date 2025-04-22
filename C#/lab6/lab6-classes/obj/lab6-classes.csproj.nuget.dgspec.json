@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj": {}
+    "C:\\Repos\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj": {}
   },
   "projects": {
-    "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj": {
+    "C:\\Repos\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj",
+        "projectUniqueName": "C:\\Repos\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj",
         "projectName": "lab6-classes",
-        "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj",
+        "projectPath": "C:\\Repos\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj",
         "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-        "outputPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\obj\\",
+        "outputPath": "C:\\Repos\\jwp\\C#\\lab6\\lab6-classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -67,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

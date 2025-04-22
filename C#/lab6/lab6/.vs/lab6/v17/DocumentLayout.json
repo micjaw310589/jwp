@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6\\",
+  "WorkspaceRootPath": "C:\\Repos\\jwp\\C#\\lab6\\lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{337970DB-6EDB-463E-86AE-4501DCAAF677}|..\\lab6-classes\\lab6-classes.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab6\\lab6-classes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E3878CF-646E-472E-9603-CBEB2C07D8E3}|lab6.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab6\\lab6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E3878CF-646E-472E-9603-CBEB2C07D8E3}|lab6.csproj|c:\\repos\\jwp\\c#\\lab6\\lab6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E3878CF-646E-472E-9603-CBEB2C07D8E3}|lab6.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E3878CF-646E-472E-9603-CBEB2C07D8E3}|lab6.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab6\\lab6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{337970DB-6EDB-463E-86AE-4501DCAAF677}|..\\lab6-classes\\lab6-classes.csproj|c:\\repos\\jwp\\c#\\lab6\\lab6-classes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3878CF-646E-472E-9603-CBEB2C07D8E3}|lab6.csproj|c:\\repos\\jwp\\c#\\lab6\\lab6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7E3878CF-646E-472E-9603-CBEB2C07D8E3}|lab6.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -21,32 +21,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\Class1.cs",
+              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab6\\lab6-classes\\Class1.cs",
               "RelativeDocumentMoniker": "..\\lab6-classes\\Class1.cs",
-              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\Class1.cs",
+              "ToolTip": "C:\\Repos\\jwp\\C#\\lab6\\lab6-classes\\Class1.cs",
               "RelativeToolTip": "..\\lab6-classes\\Class1.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwDcAAAASAAAA",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T06:27:55.26Z",
+              "WhenOpened": "2025-04-22T21:42:27.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab6\\lab6\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6\\MainWindow.xaml",
+              "ToolTip": "C:\\Repos\\jwp\\C#\\lab6\\lab6\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-14T10:39:48.687Z",
@@ -54,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab6\\lab6\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Repos\\jwp\\C#\\lab6\\lab6\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAA+wIEAAAApAAAA",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwHYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T10:39:44.869Z",
               "EditorCaption": ""

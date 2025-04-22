@@ -16,7 +16,10 @@
       },
       "lab6-classes/1.0.0": {
         "runtime": {
-          "lab6-classes.dll": {}
+          "lab6-classes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
