@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "lab6-classes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/lab6-classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab6-classes.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "lab6-classes/1.0.0": {
+      "type": "project",
+      "path": "../lab6-classes/lab6-classes.csproj",
+      "msbuildProject": "../lab6-classes/lab6-classes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "lab6-classes >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Micha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6\\lab6.csproj",
+      "projectName": "lab6",
+      "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6\\lab6.csproj",
+      "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
+      "outputPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj": {
+              "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab6\\lab6-classes\\lab6-classes.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

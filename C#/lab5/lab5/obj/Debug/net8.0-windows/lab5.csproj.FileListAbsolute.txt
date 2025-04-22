@@ -1,0 +1,54 @@
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\lab5.exe
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\lab5.deps.json
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\lab5.runtimeconfig.json
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\lab5.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\lab5.pdb
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\Geometria.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\Geometria.pdb
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5_MarkupCompile.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5_MarkupCompile.lref
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.g.resources
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.AssemblyInfo.cs
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.sourcelink.json
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.csproj.Up2Date
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\refint\lab5.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.pdb
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\lab5.genruntimeconfig.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\obj\Debug\net8.0-windows\ref\lab5.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\Generyka.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab5\bin\Debug\net8.0-windows\Generyka.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\lab5.exe
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\lab5.deps.json
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\lab5.runtimeconfig.json
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\lab5.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\lab5.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\Generyka.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\Geometria.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\Generyka.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\bin\Debug\net8.0-windows\Geometria.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.csproj.AssemblyReference.cache
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\App.g.cs
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5_MarkupCompile.cache
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5_MarkupCompile.lref
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\MainWindow.baml
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.g.resources
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.AssemblyInfoInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.AssemblyInfo.cs
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.csproj.CoreCompileInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.sourcelink.json
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.csproj.Up2Date
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\refint\lab5.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\lab5.genruntimeconfig.cache
+C:\MSVS Projects\jwp\jwp\C#\lab5\lab5\obj\Debug\net8.0-windows\ref\lab5.dll

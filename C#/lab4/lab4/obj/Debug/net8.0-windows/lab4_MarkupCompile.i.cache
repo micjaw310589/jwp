@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Repos\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\
 lab4
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Repos\jwp\C#\lab4\lab4\App.xaml
-3-287067433
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\App.xaml
+41245682930
 
-8-1961968438
-199-629892911
-DaneWejscioweOkno.xaml;DaneWyjscioweOkno.xaml;MainWindow.xaml;
+91492217643
+199-1547285476
+DaneWejscioweOkno.xaml;DaneWyjscioweOkno.xaml;InterfejsUzytkownika.xaml;MainWindow.xaml;
 
 False
 

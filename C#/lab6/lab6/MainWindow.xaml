@@ -1,0 +1,21 @@
+﻿<Window x:Class="lab6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnFunkcja1" Content="Funkcja1" HorizontalAlignment="Left" Margin="43,45,0,0" VerticalAlignment="Top" Height="52" Width="84" Click="btnFunkcja1_Click"/>
+        <Button x:Name="btnFunkcja3" Content="Funkcja3" HorizontalAlignment="Left" Margin="43,159,0,0" VerticalAlignment="Top" Height="52" Width="84" Click="btnFunkcja3_Click"/>
+        <Button x:Name="btnFunkcja2" Content="Funkcja2" HorizontalAlignment="Left" Margin="43,102,0,0" VerticalAlignment="Top" Height="52" Width="84" Click="btnFunkcja2_Click"/>
+        <ListBox x:Name="listTowar" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="470,80,78,83"/>
+        <Button x:Name="btnLinq1" Content="Linq1" HorizontalAlignment="Left" Margin="382,80,0,0" VerticalAlignment="Top" Height="48" Width="73" Click="btnLinq1_Click"/>
+        <Button x:Name="btnLinq2" Content="Linq2" HorizontalAlignment="Left" Margin="382,133,0,0" VerticalAlignment="Top" Height="48" Width="73" Click="btnLinq2_Click"/>
+        <Button x:Name="btnLinq3" Content="Linq3" HorizontalAlignment="Left" Margin="382,186,0,0" VerticalAlignment="Top" Height="48" Width="73" Click="btnLinq3_Click"/>
+        <Button x:Name="btnLinq4" Content="Linq4" HorizontalAlignment="Left" Margin="382,239,0,0" VerticalAlignment="Top" Height="48" Width="73" Click="btnLinq4_Click"/>
+        <Button x:Name="btnLinq5" Content="Linq5" HorizontalAlignment="Left" Margin="382,292,0,0" VerticalAlignment="Top" Height="48" Width="73" Click="btnLinq5_Click"/>
+
+    </Grid>
+</Window>

@@ -56,3 +56,32 @@ C:\Repos\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\refint\lab4.dll
 C:\Repos\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.pdb
 C:\Repos\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.genruntimeconfig.cache
 C:\Repos\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\ref\lab4.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\bin\Debug\net8.0-windows\lab4.exe
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\bin\Debug\net8.0-windows\lab4.deps.json
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\bin\Debug\net8.0-windows\lab4.runtimeconfig.json
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\bin\Debug\net8.0-windows\lab4.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\bin\Debug\net8.0-windows\lab4.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\bin\Debug\net8.0-windows\Geometria.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\bin\Debug\net8.0-windows\Geometria.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.csproj.AssemblyReference.cache
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\DaneWejscioweOkno.g.cs
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\DaneWyjscioweOkno.g.cs
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\App.g.cs
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4_MarkupCompile.cache
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4_MarkupCompile.lref
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\DaneWejscioweOkno.baml
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\DaneWyjscioweOkno.baml
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.g.resources
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfoInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfo.cs
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.csproj.CoreCompileInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.sourcelink.json
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.csproj.Up2Date
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\refint\lab4.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\lab4.genruntimeconfig.cache
+C:\MSVS Projects\jwp\jwp\C#\lab4\lab4\obj\Debug\net8.0-windows\ref\lab4.dll

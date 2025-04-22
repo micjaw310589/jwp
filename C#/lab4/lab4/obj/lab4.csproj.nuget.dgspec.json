@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\jwp\\C#\\lab4\\lab4\\lab4.csproj": {}
+    "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\lab4.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj": {
+    "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj",
+        "projectUniqueName": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj",
         "projectName": "Geometria",
-        "projectPath": "C:\\Repos\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj",
+        "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj",
         "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\jwp\\C#\\lab4\\Geometria\\obj\\",
+        "outputPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\Geometria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -68,18 +67,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Repos\\jwp\\C#\\lab4\\lab4\\lab4.csproj": {
+    "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\lab4.csproj",
+        "projectUniqueName": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\lab4.csproj",
         "projectName": "lab4",
-        "projectPath": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\lab4.csproj",
+        "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\lab4.csproj",
         "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\obj\\",
+        "outputPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +99,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Repos\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj": {
-                "projectPath": "C:\\Repos\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj"
+              "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj": {
+                "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\Geometria\\Geometria.csproj"
               }
             }
           }
@@ -115,8 +114,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -140,7 +138,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

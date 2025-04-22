@@ -88,6 +88,26 @@ namespace Geometria
         {
             return base.ToString() + $"\nPromieñ: {this.Promien:F2}";
         }
+
+        public static Kula operator +(Kula _l, Kula _p)
+        {
+            double sum_objetosc = _l.Objetosc + _p.Objetosc;
+            return new Kula($"{_l.Nazwa}+{_p.Nazwa}", Math.Pow(sum_objetosc * 3.0 / (4.0 * Math.PI), 1 / 3), _l.Gestosc, _l.Cena);
+            // nie wiem nie chce mi siê myœleæ o tym wiêcej
+        }
+
+        public static Kula operator -(Kula _l, Kula _p)
+        {
+            double rozn_objetosci = _l.Objetosc - _p.Objetosc;
+            return new Kula($"{_l.Nazwa}-{_p.Nazwa}", Math.Pow(rozn_objetosci * 3.0 / (4.0 * Math.PI), 1 / 3), _l.Gestosc, _l.Cena);
+            // nie wiem nie chce mi siê myœleæ o tym wiêcej
+        }
+
+        public static Kula operator ++(Kula _kula)
+        {
+            return new Kula($"{_kula.Nazwa}", Math.Pow((_kula.Objetosc + 1.0) * 3.0 / (4.0 * Math.PI), 1 / 3), _kula.Gestosc, _kula.Cena);
+            // nie wiem nie chce mi siê myœleæ o tym wiêcej
+        }
     }
 
     public class Stozek : Bryla

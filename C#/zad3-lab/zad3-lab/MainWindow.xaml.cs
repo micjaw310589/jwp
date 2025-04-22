@@ -34,11 +34,6 @@ public partial class MainWindow : Window
         }
     }
 
-    void WyswietlHistorie(ref Pojazd p, ref ListBox lista)
-    {
-        lista.Items.Clear();
-    }
-
     private void btnWypisz_Click(object sender, RoutedEventArgs e)
     {
         Pojazd[] tablica_pojazdow = new Pojazd[]

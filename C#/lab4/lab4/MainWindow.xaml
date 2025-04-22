@@ -12,8 +12,9 @@
         <Button x:Name="btnObliczStozek" Content="Oblicz stożek" HorizontalAlignment="Left" Margin="528,255,0,0" VerticalAlignment="Top" Height="62" Width="128" Click="btnObliczStozek_Click"/>
         <Label x:Name="labelKula" Content="Tu pojawi się kula" HorizontalAlignment="Left" Margin="272,38,0,0" VerticalAlignment="Top"/>
         <Label x:Name="labelStozek" Content="Tu pojawi się stożek" HorizontalAlignment="Left" Margin="528,38,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="btnWyswietl" Content="Wyświetl" HorizontalAlignment="Left" Margin="43,20,0,0" VerticalAlignment="Top" Height="62" Width="128" Click="btnWyswietl_Click"/>
-        <ListBox x:Name="listWyswietl" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="24,101,598,117"/>
+        <Button x:Name="btnWyswietl" Content="Wyświetl" HorizontalAlignment="Left" Margin="24,20,0,0" VerticalAlignment="Top" Height="31" Width="70" Click="btnWyswietl_Click"/>
+        <ListBox x:Name="listWyswietl" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="24,200,598,18"/>
+        <Button x:Name="btnOperatory" Content="Operatory" HorizontalAlignment="Left" Margin="24,56,0,0" VerticalAlignment="Top" Height="30" Width="70" Click="btnOperatory_Click"/>
 
     </Grid>
 </Window>

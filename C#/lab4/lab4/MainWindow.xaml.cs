@@ -56,6 +56,8 @@ namespace lab4
 
         private void btnWyswietl_Click(object sender, RoutedEventArgs e)
         {
+            listWyswietl.Items.Clear();
+
             List<IWyswietl> listaObiektow = new List<IWyswietl>()
             {
                 new Kula("kula", 5.35, 23.1, 2.23M),
@@ -71,6 +73,27 @@ namespace lab4
             foreach(IWyswietl obj in listaObiektow)
             {
                 listWyswietl.Dodaj(obj);
+            }
+        }
+
+        private void btnOperatory_Click(object sender, RoutedEventArgs e)
+        {
+            listWyswietl.Items.Clear();
+
+            Kula k1 = new("kula 1", 5.5, 24.2, 34.0M);
+            Kula k2 = new("kula 2", 5.35, 23.1, 2.23M);
+            Kula k3 = new("kula 3", 5.69, 14.4, 12.20M);
+
+            Kula[] kule = new Kula[]
+            {
+                ( k1 + k2 ),
+                ( k2 - k3 ),
+                ( k3++ )
+            };
+
+            foreach(Kula k in kule)
+            {
+                listWyswietl.Items.Add(new ListBoxItem().Content = k);
             }
         }
     }

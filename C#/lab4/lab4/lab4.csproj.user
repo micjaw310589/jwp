@@ -13,12 +13,18 @@
     <Compile Update="DaneWyjscioweOkno.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="InterfejsUzytkownika.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="DaneWejscioweOkno.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="DaneWyjscioweOkno.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InterfejsUzytkownika.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

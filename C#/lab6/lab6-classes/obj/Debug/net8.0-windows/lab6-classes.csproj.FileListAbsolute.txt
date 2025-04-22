@@ -1,0 +1,24 @@
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\bin\Debug\net8.0-windows\lab6-classes.deps.json
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\bin\Debug\net8.0-windows\lab6-classes.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\bin\Debug\net8.0-windows\lab6-classes.pdb
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.AssemblyInfo.cs
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.sourcelink.json
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\refint\lab6-classes.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.pdb
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\lab6-classes\obj\Debug\net8.0-windows\ref\lab6-classes.dll
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\bin\Debug\net8.0-windows\lab6-classes.deps.json
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\bin\Debug\net8.0-windows\lab6-classes.dll
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\bin\Debug\net8.0-windows\lab6-classes.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.AssemblyInfoInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.AssemblyInfo.cs
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.csproj.CoreCompileInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.sourcelink.json
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.dll
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\refint\lab6-classes.dll
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\lab6-classes.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab6\lab6-classes\obj\Debug\net8.0-windows\ref\lab6-classes.dll

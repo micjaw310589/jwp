@@ -16,10 +16,7 @@
       },
       "Geometria/1.0.0": {
         "runtime": {
-          "Geometria.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Geometria.dll": {}
         }
       }
     }

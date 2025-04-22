@@ -1,33 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repos\\jwp\\C#\\lab4\\",
+  "WorkspaceRootPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03852818-BE93-417E-9375-401911D7B252}|Geometria\\Geometria.csproj|c:\\repos\\jwp\\c#\\lab4\\geometria\\bryla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03852818-BE93-417E-9375-401911D7B252}|Geometria\\Geometria.csproj|solutionrelative:geometria\\bryla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8E93DB-B719-422E-A8B6-13AC0F0C5AD9}|InterfejsUzytkownika\\InterfejsUzytkownika.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\interfejsuzytkownika\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8E93DB-B719-422E-A8B6-13AC0F0C5AD9}|InterfejsUzytkownika\\InterfejsUzytkownika.csproj|solutionrelative:interfejsuzytkownika\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\repos\\jwp\\c#\\lab4\\lab4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\lab4\\interfejsuzytkownika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\interfejsuzytkownika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\repos\\jwp\\c#\\lab4\\lab4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\lab4\\interfejsuzytkownika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\interfejsuzytkownika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\repos\\jwp\\c#\\lab4\\lab4\\danewyjscioweokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\danewyjscioweokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\repos\\jwp\\c#\\lab4\\lab4\\danewejscioweokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\danewejscioweokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\repos\\jwp\\c#\\lab4\\lab4\\danewyjscioweokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\lab4\\danewyjscioweokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\danewyjscioweokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\repos\\jwp\\c#\\lab4\\lab4\\danewejscioweokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\lab4\\danewejscioweokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\danewejscioweokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\lab4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\lab4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03852818-BE93-417E-9375-401911D7B252}|Geometria\\Geometria.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\geometria\\bryla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03852818-BE93-417E-9375-401911D7B252}|Geometria\\Geometria.csproj|solutionrelative:geometria\\bryla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\lab4\\danewyjscioweokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\danewyjscioweokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|c:\\msvs projects\\jwp\\jwp\\c#\\lab4\\lab4\\danewejscioweokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4EAEC6FE-9C01-47DE-8C58-5B17F172FC40}|lab4\\lab4.csproj|solutionrelative:lab4\\danewejscioweokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -38,28 +50,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bryla.cs",
-              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab4\\Geometria\\Bryla.cs",
-              "RelativeDocumentMoniker": "Geometria\\Bryla.cs",
-              "ToolTip": "C:\\Repos\\jwp\\C#\\lab4\\Geometria\\Bryla.cs",
-              "RelativeToolTip": "Geometria\\Bryla.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\InterfejsUzytkownika\\Class1.cs",
+              "RelativeDocumentMoniker": "InterfejsUzytkownika\\Class1.cs",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\InterfejsUzytkownika\\Class1.cs*",
+              "RelativeToolTip": "InterfejsUzytkownika\\Class1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T11:35:16.079Z",
+              "WhenOpened": "2025-04-07T09:29:01.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "InterfejsUzytkownika.xaml.cs",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\InterfejsUzytkownika.xaml.cs",
+              "RelativeDocumentMoniker": "lab4\\InterfejsUzytkownika.xaml.cs",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\InterfejsUzytkownika.xaml.cs",
+              "RelativeToolTip": "lab4\\InterfejsUzytkownika.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:25:37.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfejsUzytkownika.xaml",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\InterfejsUzytkownika.xaml",
+              "RelativeDocumentMoniker": "lab4\\InterfejsUzytkownika.xaml",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\InterfejsUzytkownika.xaml",
+              "RelativeToolTip": "lab4\\InterfejsUzytkownika.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T09:25:19.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\MainWindow.xaml",
               "RelativeDocumentMoniker": "lab4\\MainWindow.xaml",
-              "ToolTip": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\MainWindow.xaml",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\MainWindow.xaml",
               "RelativeToolTip": "lab4\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-31T10:46:51.857Z",
@@ -67,66 +108,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "lab4\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\MainWindow.xaml.cs",
               "RelativeToolTip": "lab4\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAFQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T10:46:49.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DaneWyjscioweOkno.xaml",
-              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\DaneWyjscioweOkno.xaml",
-              "RelativeDocumentMoniker": "lab4\\DaneWyjscioweOkno.xaml",
-              "ToolTip": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\DaneWyjscioweOkno.xaml",
-              "RelativeToolTip": "lab4\\DaneWyjscioweOkno.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T10:59:54.404Z",
+              "DocumentIndex": 4,
+              "Title": "DaneWejscioweOkno.xaml.cs",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\DaneWejscioweOkno.xaml.cs",
+              "RelativeDocumentMoniker": "lab4\\DaneWejscioweOkno.xaml.cs",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\DaneWejscioweOkno.xaml.cs",
+              "RelativeToolTip": "lab4\\DaneWejscioweOkno.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:57:17.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DaneWyjscioweOkno.xaml.cs",
-              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\DaneWyjscioweOkno.xaml.cs",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\DaneWyjscioweOkno.xaml.cs",
               "RelativeDocumentMoniker": "lab4\\DaneWyjscioweOkno.xaml.cs",
-              "ToolTip": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\DaneWyjscioweOkno.xaml.cs",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\DaneWyjscioweOkno.xaml.cs",
               "RelativeToolTip": "lab4\\DaneWyjscioweOkno.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADgvxsAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T11:04:36.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DaneWejscioweOkno.xaml",
-              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\DaneWejscioweOkno.xaml",
-              "RelativeDocumentMoniker": "lab4\\DaneWejscioweOkno.xaml",
-              "ToolTip": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\DaneWejscioweOkno.xaml",
-              "RelativeToolTip": "lab4\\DaneWejscioweOkno.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T10:49:37.066Z",
+              "DocumentIndex": 7,
+              "Title": "Bryla.cs",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\Geometria\\Bryla.cs",
+              "RelativeDocumentMoniker": "Geometria\\Bryla.cs",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\Geometria\\Bryla.cs",
+              "RelativeToolTip": "Geometria\\Bryla.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwF4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:35:16.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DaneWejscioweOkno.xaml.cs",
-              "DocumentMoniker": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\DaneWejscioweOkno.xaml.cs",
-              "RelativeDocumentMoniker": "lab4\\DaneWejscioweOkno.xaml.cs",
-              "ToolTip": "C:\\Repos\\jwp\\C#\\lab4\\lab4\\DaneWejscioweOkno.xaml.cs",
-              "RelativeToolTip": "lab4\\DaneWejscioweOkno.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADgvxkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:57:17.222Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "DaneWyjscioweOkno.xaml",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\DaneWyjscioweOkno.xaml",
+              "RelativeDocumentMoniker": "lab4\\DaneWyjscioweOkno.xaml",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\DaneWyjscioweOkno.xaml",
+              "RelativeToolTip": "lab4\\DaneWyjscioweOkno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T10:59:54.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DaneWejscioweOkno.xaml",
+              "DocumentMoniker": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\DaneWejscioweOkno.xaml",
+              "RelativeDocumentMoniker": "lab4\\DaneWejscioweOkno.xaml",
+              "ToolTip": "C:\\MSVS Projects\\jwp\\jwp\\C#\\lab4\\lab4\\DaneWejscioweOkno.xaml",
+              "RelativeToolTip": "lab4\\DaneWejscioweOkno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T10:49:37.066Z"
             }
           ]
         }

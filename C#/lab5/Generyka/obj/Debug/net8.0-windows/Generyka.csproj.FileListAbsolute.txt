@@ -1,0 +1,24 @@
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\bin\Debug\net8.0-windows\Generyka.deps.json
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\bin\Debug\net8.0-windows\Generyka.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\bin\Debug\net8.0-windows\Generyka.pdb
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\Generyka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\Generyka.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\Generyka.AssemblyInfo.cs
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\Generyka.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\Generyka.sourcelink.json
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\Generyka.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\refint\Generyka.dll
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\Generyka.pdb
+C:\Users\Student\Desktop\Wszystko\WpfJaworek\jwp\C#\Generyka\obj\Debug\net8.0-windows\ref\Generyka.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\bin\Debug\net8.0-windows\Generyka.deps.json
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\bin\Debug\net8.0-windows\Generyka.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\bin\Debug\net8.0-windows\Generyka.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\Generyka.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\Generyka.AssemblyInfoInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\Generyka.AssemblyInfo.cs
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\Generyka.csproj.CoreCompileInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\Generyka.sourcelink.json
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\Generyka.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\refint\Generyka.dll
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\Generyka.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab5\Generyka\obj\Debug\net8.0-windows\ref\Generyka.dll

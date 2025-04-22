@@ -22,3 +22,15 @@ C:\Repos\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.dll
 C:\Repos\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\refint\Geometria.dll
 C:\Repos\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.pdb
 C:\Repos\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\ref\Geometria.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\bin\Debug\net8.0-windows\Geometria.deps.json
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\bin\Debug\net8.0-windows\Geometria.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\bin\Debug\net8.0-windows\Geometria.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.AssemblyInfoInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.AssemblyInfo.cs
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.csproj.CoreCompileInputs.cache
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.sourcelink.json
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\refint\Geometria.dll
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\Geometria.pdb
+C:\MSVS Projects\jwp\jwp\C#\lab4\Geometria\obj\Debug\net8.0-windows\ref\Geometria.dll

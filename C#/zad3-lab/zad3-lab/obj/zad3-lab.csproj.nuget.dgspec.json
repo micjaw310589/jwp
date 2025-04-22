@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\zad3-lab.csproj": {}
+    "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\zad3-lab\\zad3-lab.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj": {
+    "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj",
+        "projectUniqueName": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj",
         "projectName": "Motoryzacja",
-        "projectPath": "C:\\Repos\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj",
+        "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj",
         "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\jwp\\C#\\zad3-lab\\Motoryzacja\\obj\\",
+        "outputPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\Motoryzacja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,18 +64,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\zad3-lab.csproj": {
+    "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\zad3-lab\\zad3-lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\zad3-lab.csproj",
+        "projectUniqueName": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\zad3-lab\\zad3-lab.csproj",
         "projectName": "zad3-lab",
-        "projectPath": "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\zad3-lab.csproj",
+        "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\zad3-lab\\zad3-lab.csproj",
         "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\jwp\\C#\\zad3-lab\\zad3-lab\\obj\\",
+        "outputPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\zad3-lab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +96,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Repos\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj": {
-                "projectPath": "C:\\Repos\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj"
+              "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj": {
+                "projectPath": "C:\\MSVS Projects\\jwp\\jwp\\C#\\zad3-lab\\Motoryzacja\\Motoryzacja.csproj"
               }
             }
           }
@@ -112,8 +111,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -137,7 +135,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
